@@ -1,0 +1,9 @@
+Q1: Why might we consider using Git?
+
+Answer: Git keeps track of code history and different versions so you can keep changes or go back to older versions. Its also a tool used for
+collobaration because it allows people to work on their owm branches and merge them.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science applies to many different fields, one of them specifically is healthcare. In healthcare there is lots of data that needs
+to be efficiently managed related to patients, diseases, drugs, and more. Using data science will help analyze this data and make predictions.
