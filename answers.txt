@@ -11,3 +11,7 @@ to be efficiently managed related to patients, diseases, drugs, and more. Using 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines changes from one branch with another, while rebasing adds the changes from one branch to the other.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning more Python and SQL this semester.
